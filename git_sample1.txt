@@ -1,0 +1,6 @@
+This is the sample1 file
+Contains colors:
+Red
+Blue
+Green
+Grey
